@@ -1,0 +1,8 @@
+.footer{
+    background: rgb(120,0,0);
+    background: linear-gradient(90deg, rgba(120,0,0,1) 35%, rgba(0,26,255,1) 85%);
+}
+.color-enlace{
+color: white;
+
+}
